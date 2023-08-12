@@ -20,21 +20,23 @@ function Home2() {
 									Participated and qualified in about 10 programming contests
 								</li>
 								<li>
-									About 2 years experience working with reactjs language front
-									end(reactjs) and backend (nodejs, java)
+								Proficient in Java, JavaScript, and Ruby, I bring a versatile skill set to the table. 
+								My expertise extends beyond programming languages to encompass a wide array of frameworks, allowing me to create robust and efficient solutions. 
 								</li>
 								<li>
-									Being an inquisitive , inquiried person and able to work
-									independently. Always looking forward to contributing my own
+								With a keen focus on performance and scalability, I have successfully worked with large databases, demonstrating my ability to handle complex data structures and optimize database interactions. 
+								</li>
+								<li>
+									Being an inquisitive person, and I am proficient in functioning both autonomously and collaboratively within a team setting. Always looking forward to contributing my own
 									value to the company
 								</li>
 								<li>
 									I am the person who want to solve all problems on this world
-									to help everyone can achieve their purpose . Also , I think I
+									to help everyone can achieve their purpose . Also, I think I
 									am a creative-thinking, problem-solving and curiosity person.
 								</li>
 								<li>
-									Finally, I always try my best to achieve what I want whether
+									Finally, I always try my best to achieve what I want, whether
 									it is possible or not.
 								</li>
 							</ul>
