@@ -17,7 +17,7 @@ function Home2() {
 						<p className="home-about-body">
 							<ul>
 								<li>
-									Participated and qualified in about 10 programming contests
+									Participated and qualified in about 5 programming contests
 								</li>
 								<li>
 								Proficient in Java, JavaScript, and Ruby, I bring a versatile skill set to the table. 
